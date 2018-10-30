@@ -1,0 +1,23 @@
+{
+  "dashboard.js": "dashboard.b497102ad48d49c0b119.entry.js",
+  "dashboard.css": "dashboard.b497102ad48d49c0b119.css",
+  "dashboard_deprecated.js": "dashboard_deprecated.2c98f74ddc41b221a92d.entry.js",
+  "dashboard_deprecated.css": "dashboard_deprecated.2c98f74ddc41b221a92d.css",
+  "explore.js": "explore.d27d9e64bdce171a52d6.entry.js",
+  "explore.css": "explore.d27d9e64bdce171a52d6.css",
+  "sqllab.js": "sqllab.620cec00e027f787f382.entry.js",
+  "sqllab.css": "sqllab.620cec00e027f787f382.css",
+  "profile.js": "profile.f9aa4e06addae4d60a5a.entry.js",
+  "profile.css": "profile.f9aa4e06addae4d60a5a.css",
+  "addSlice.js": "addSlice.f4e3f99077f95de47337.entry.js",
+  "welcome.js": "welcome.a73b484093be2d60f793.entry.js",
+  "welcome.css": "welcome.a73b484093be2d60f793.css",
+  "common.js": "common.5cba5b95a233bfb79889.entry.js",
+  "theme.js": "theme.522b360e0053e66c252d.entry.js",
+  "theme.css": "theme.522b360e0053e66c252d.css",
+  "glyphicons-halflings-regular.eot": "f4769f9bdb7466be65088239c12046d1.eot",
+  "glyphicons-halflings-regular.woff": "fa2772327f55d8198301fdb8bcfc8158.woff",
+  "glyphicons-halflings-regular.ttf": "e18bbf611f2a2e43afc071aa2f4e1512.ttf",
+  "glyphicons-halflings-regular.svg": "89889688147bd7575d6327160d64e760.svg",
+  "glyphicons-halflings-regular.woff2": "448c34a56d699c29117adc64c43affeb.woff2"
+}
