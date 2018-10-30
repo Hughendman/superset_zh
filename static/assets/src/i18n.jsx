@@ -2635,7 +2635,7 @@ const DEFAULT_LANGUAGE_PACK = {
                 "没有最喜欢的图表，点击收藏!"
             ],
             "No favorite dashboards yet, go click on stars!": [
-                "暂无收藏的看板，去点击星星吧！"
+                "暂无收藏的看板，去点击收藏吧！"
             ],
             "Roles": [
                 "角色"

@@ -3925,11 +3925,11 @@ msgstr "图表"
 
 #: superset/assets/src/profile/components/Favorites.jsx:34
 msgid "No favorite charts yet, go click on stars!"
-msgstr "没有最喜欢的图表，点击星星!"
+msgstr "没有最喜欢的图表，点击收藏!"
 
 #: superset/assets/src/profile/components/Favorites.jsx:50
 msgid "No favorite dashboards yet, go click on stars!"
-msgstr "暂无收藏的看板，去点击星星吧！"
+msgstr "暂无收藏的看板，去点击收藏吧！"
 
 #: superset/assets/src/profile/components/Security.jsx:14
 msgid "Roles"
